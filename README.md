@@ -2,7 +2,7 @@
 
 https://play.google.com/store/apps/details?id=com.bindortyuzyirmibir.konvert&hl=en&gl=us
 
-[FG](https://github.com/aalpersen/konvert/blob/main/FG.png?raw=true)
+![FG](FG.png)
 
 
 Public showcase for Konvert
